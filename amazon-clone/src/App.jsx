@@ -1,6 +1,6 @@
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import CardGrid from './components/CardGrid'
+import Navbar from './components/Navbar/Navbar'
+import Hero from './components/Hero/Hero'
+import CardGrid from './components/CardGrid/CardGrid'
 
 function App() {
   return (
