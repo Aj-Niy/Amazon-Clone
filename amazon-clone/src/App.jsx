@@ -1,15 +1,11 @@
-import Navbar from './components/Navbar/Navbar'
-import Hero from './components/Hero/Hero'
-import CardGrid from './components/CardGrid/CardGrid'
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <CardGrid />
+      <Home />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
